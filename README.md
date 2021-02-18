@@ -10,5 +10,5 @@ This lecture introduces multicellular systems and agent-based approaches that si
 
 ## Lecture 2: 
 This lecture turns its attention to PhysiCell, a more developed agent-based modeling framework. After showing some research examples, we perform a hands-on exploration of cloud-hosted PhysiCell models. 
-* Slides (PDF): [click here]()
+* Slides (PDF): [click here](https://github.com/physicell-training/Python_ABM_crashcourse/blob/main/ABM%20intro%20(Python%20based)%20Lecture%202.pdf)
 * Recording (YouTube): 
